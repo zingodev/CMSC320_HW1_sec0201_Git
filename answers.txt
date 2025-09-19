@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Game development. An example would be optimizing the cost of ingame purchases through AB testing
+to maximize revenue.
