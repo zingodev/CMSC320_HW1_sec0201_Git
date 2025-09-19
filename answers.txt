@@ -7,3 +7,14 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Game development. An example would be optimizing the cost of ingame purchases through AB testing
 to maximize revenue.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is the combinding of two different branches where the history of both the branches and the merge is saved. Rebasing
+instead creates an ordered/linear history by rewriting commits from one branch onto another.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning how to use Data Science in the real world. I want to optimize the things I build.
+I'm a game developer and I hope a lot of the concepts I learn hear can be applied to my games to make
+them more enjoyable and profitable.
