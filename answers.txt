@@ -2,3 +2,8 @@ Q1: Why might we consider using Git?
 
 Answer: We use git for a few reasons! It has version control so we can rollback bad changes, supports branching so multiple
 changes or contributors can work at the same time, and in general makes managing a large or distrubted code base easier!
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Game development. An example would be optimizing the cost of ingame purchases through AB testing
+to maximize revenue.
